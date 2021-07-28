@@ -1,0 +1,108 @@
+{
+  "music": [
+    {
+      "id": "874460e9-e086-4f6d-bb86-b40ce17f917c",
+      "title": "القناة الأولى",
+      "album": "الإذاعة الجزائرية",
+      "artist": "الإذاعة الجزائرية",
+      "genre": "عامة",
+      "source": "https://ch1.ice.infomaniak.ch/ch1-64.aac",
+      "image": "https://1.bp.blogspot.com/-MFvk_ZFVWiM/YPii-TYIRqI/AAAAAAAAA58/4-o7ZFQp9pAvbk6EViY3vfE4Xii7b3t4gCLcBGAsYHQ/s115/chaine-site-off-ch1.png",
+      "trackNumber": 1,
+      "totalTrackCount": 8,
+      "duration": -1,
+      "site": "https://www.radioalgerie.dz/chaine1/"
+    },
+    {
+      "id": "47017eea-9007-4385-bfd9-cad51cdb484c",
+      "title": "ⴰⵎⴰⵟⴰⴼ ⵡⴻⵙⴻⵍ - القناة الثانية",
+      "album": "الإذاعة الجزائرية",
+      "artist": "الإذاعة الجزائرية",
+      "genre": "عامة",
+      "source": "https://ch2.ice.infomaniak.ch/ch2-64.aac",
+      "image": "https://1.bp.blogspot.com/-HKSsIGks_R8/YPijDW0txoI/AAAAAAAAA6A/XzYYEak2gWEeNvLs46d0PEmi5S1Q2xrWACLcBGAsYHQ/s0/chaine-site-off-ch2.png",
+      "trackNumber": 2,
+      "totalTrackCount": 8,
+      "duration": -1,
+      "site": "https://www.radioalgerie.dz/chaine2/"
+    },
+    {
+      "id": "1aec1227-fd90-4fa3-90ef-f5c8d48c5db3",
+      "title": "القناة الثالثة",
+      "album": "الإذاعة الجزائرية",
+      "artist": "الإذاعة الجزائرية",
+      "genre": "Generalist",
+      "source": "https://ch3.ice.infomaniak.ch/ch3-64.aac",
+      "image": "https://1.bp.blogspot.com/-tswj7SanAuw/YPijDZuzb8I/AAAAAAAAA6E/SMjIu48tLb8PShsKYl8XCZ6KZ-DwO66OwCLcBGAsYHQ/s0/chaine-site-off-ch3.png",
+      "trackNumber": 3,
+      "totalTrackCount": 8,
+      "duration": -1,
+      "site": "https://www.radioalgerie.dz/chaine2/"
+    },
+    {
+      "id": "2de46bef-0301-47c8-a63e-40029384ff5b",
+      "title": "إذاعة الجزائر الدولية",
+      "album": "الإذاعة الجزائرية",
+      "artist": "الإذاعة الجزائرية",
+      "genre": "أخبار",
+      "source": "https://rai.ice.infomaniak.ch/rai-64.aac",
+      "image": "https://1.bp.blogspot.com/-8K4YmC0UKhU/YPijOvylc_I/AAAAAAAAA6I/X5dFjpnUPe4bk9o1k0TfcpChm_jsn6HAQCLcBGAsYHQ/s0/chaine-site-off-rai.png",
+      "trackNumber": 4,
+      "totalTrackCount": 8,
+      "duration": -1,
+      "site": "https://www.radioalgerie.dz/rai/"
+    },
+    {
+      "id": "ec6458eb-8ba6-4e10-8b77-14afc412492f",
+      "title": "إذاعة القرآن",
+      "album": "الإذاعة الجزائرية",
+      "artist": "الإذاعة الجزائرية",
+      "genre": "دينية",
+      "source": "https://coran.ice.infomaniak.ch/coran.aac",
+      "image": "https://1.bp.blogspot.com/-aKTy39tU_k4/YPiti3sqpxI/AAAAAAAAA7k/tvhSbownrQIL9TjgXDJKmY81joya7O9OQCLcBGAsYHQ/s0/chaine-site-off-coran.png",
+      "trackNumber": 5,
+      "totalTrackCount": 8,
+      "duration": -1,
+      "site": "https://www.radioalgerie.dz/coran/"
+    },
+    {
+      "id": "eece8486-333c-4820-81cd-10e58fe43a3d",
+      "title": "الإذاعة الثقافية",
+      "album": "الإذاعة الجزائرية",
+      "artist": "الإذاعة الجزائرية",
+      "genre": "ثقافية",
+      "source": "https://culture.ice.infomaniak.ch/culture.aac",
+      "image": "https://1.bp.blogspot.com/-zY6thk7ebvo/YPijOiB13AI/AAAAAAAAA6Q/Mx77ih41Bh8kV2Yewvw_btvPhAIJs1MswCLcBGAsYHQ/s0/chaine-site-off-culture.png",
+      "trackNumber": 6,
+      "totalTrackCount": 8,
+      "duration": -1,
+      "site": "https://www.radioalgerie.dz/culture/"
+    },
+    {
+      "id": "72912d95-afc7-4fc3-8650-9ba4a405da7b",
+      "title": "جيل أف أم",
+      "album": "الإذاعة الجزائرية",
+      "artist": "الإذاعة الجزائرية",
+      "genre": "شباب / موسيقى",
+      "source": "https://jil-fm.ice.infomaniak.ch/jilfm.aac",
+      "image": "https://1.bp.blogspot.com/-8n-YdWamtTg/YPijOhMWNII/AAAAAAAAA6M/FMwVOyXW9A049fMLUAdzwdELqAIVfRa0ACLcBGAsYHQ/s0/chaine-site-off-jilfm.png",
+      "trackNumber": 7,
+      "totalTrackCount": 8,
+      "duration": -1,
+      "site": "https://www.radioalgerie.dz/jilfm/"
+    },
+    {
+      "id": "bd1eef73-ff92-4ccd-b0ea-13017a8206a8",
+      "title": "إذاعة البهجة",
+      "album": "الإذاعة الجزائرية",
+      "artist": "الإذاعة الجزائرية",
+      "genre": "الجزائر / محلية",
+      "source": "https://elbahdja.ice.infomaniak.ch/elbahdja-32.aac",
+      "image": "https://1.bp.blogspot.com/-ah2eknLSgAM/YPijn93a2VI/AAAAAAAAA6k/j6KlNkQZQMkSQVsfHtD1RhV_gjnQB983QCLcBGAsYHQ/s0/chaine-site-off-bahdja.png",
+      "trackNumber": 8,
+      "totalTrackCount": 8,
+      "duration": -1,
+      "site": "https://www.radioalgerie.dz/news/ar/"
+    }
+  ]
+}
