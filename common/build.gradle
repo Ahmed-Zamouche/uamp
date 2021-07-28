@@ -20,6 +20,14 @@ apply plugin: 'kotlin-kapt'
 apply plugin: 'kotlin-android-extensions'
 
 android {
+    signingConfigs {
+        release {
+            storePassword 'dvZAt8ELG3YRkgnu'
+            keyPassword 'dvZAt8ELG3YRkgnu'
+            keyAlias 'key_ar_uamp'
+            storeFile file('C:\\Users\\a00529486\\StudioProjects\\keystores\\upload-keystore.jks')
+        }
+    }
     compileSdkVersion rootProject.compileSdkVersion
 
     defaultConfig {
@@ -37,6 +45,9 @@ android {
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.release
+        }
+        debug {
             signingConfig signingConfigs.debug
         }
     }
