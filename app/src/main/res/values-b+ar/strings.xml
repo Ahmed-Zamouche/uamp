@@ -15,17 +15,17 @@
   ~ limitations under the License.
   -->
 <resources>
-    <string name="app_name">Algerian Radio</string>
+    <string name="app_name">الإذاعة الجزائرية</string>
 
-    <string name="skip_back_10s">Skip back 10s</string>
-    <string name="skip_forward_10s">Skip forward 10s</string>
-    <string name="play">Play</string>
-    <string name="pause">Pause</string>
+    <string name="skip_back_10s">تخطي للخلف 10 ثوانٍ</string>
+    <string name="skip_forward_10s">تخطي للأمام 10 ثوانٍ</string>
+    <string name="play">ألعب</string>
+    <string name="pause">أوقف</string>
 
-    <string name="menu_music_queue">Queue</string>
-    <string name="album_art_alt">Album art</string>
+    <string name="menu_music_queue">إصطف</string>
+    <string name="album_art_alt">فن الألبوم</string>
     <string name="duration_unknown">--:--</string>
     <string name="duration_format">%d:%02d</string>
 
-    <string name="cast_context_error">Failed to get Cast context. Try updating Google Play Services and restart the app.</string>
+    <string name="cast_context_error">فشل الحصول على سياق Cast. حاول تحديث خدمات Google Play وأعد تشغيل التطبيق.</string>
 </resources>

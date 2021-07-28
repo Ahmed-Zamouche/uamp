@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright 2019 Google LLC
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     https://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string name="app_name">الإذاعة الجزائرية</string>
+    <string name="settings_label">الإذاعة الجزائرية إعدادات</string>
+
+    <!-- Sign in -->
+    <string name="error_login_button">تسجيل الدخول</string>
+    <string name="error_require_login">يستلزم التوثيق</string>
+    <string name="password_hint">أدخل كلمة المرور</string>
+    <string name="email_hint">بريد إلكتروني</string>
+    <string name="login_button_label">تسجيل الدخول</string>
+    <string name="missing_fields_error">الرجاء ملء الحقول المفقودة</string>
+    <string name="username_help_text">نسيت إسم المستخدم؟ | استخدم تطبيق الهاتف لتسجيل الدخول</string>
+    <string name="password_help_text">هل نسيت كلمة السر؟ | إعادة تعيين مع تطبيق الهاتف</string>
+    <string name="sign_in_next_button_label">التالي</string>
+    <string name="sign_in_submit_button_label">التالي</string>
+    <string name="sign_in_user_id_hint">ادخل اسم المستخدم</string>
+    <string name="sign_in_username_error">مدخل غير صالح</string>
+    <string name="sign_in_primary_text">تسجيل الدخول باستخدام Aural</string>
+    <string name="username_and_password_sign_in_primary_text">تسجيل الدخول باستخدام Aural</string>
+    <string name="phone_sign_in_button_label">تسجيل الدخول باستخدام الهاتف</string>
+    <string name="phone_sign_in_primary_text">اختر طريقة تسجيل الدخول عبر الهاتف</string>
+    <string name="pin_sign_in_button_label">PIN</string>
+    <string name="pin_sign_in_primary_text">قم بتسجيل الدخول باستخدام PIN</string>
+    <string name="pin_sign_in_secondary_text">انتقل إلى example.com/fast-pair على هاتفك</string>
+    <string name="qr_sign_in_button_label">QR رمز</string>
+    <string name="qr_sign_in_primary_text">قم بتسجيل الدخول باستخدام رمز QR</string>
+    <string name="qr_sign_in_secondary_text">استخدم كاميرا هاتفك لالتقاط هذا الرمز</string>
+    <string name="google_sign_in_button_label">قم بتسجيل الدخول باستخدام Google</string>
+    <string name="sign_in_footer">بتسجيل الدخول باستخدام Aural ، فإنك توافق على &lt;a href=&quot;http://www.google.com&quot;&gt;الأحكام والشروط&lt;/a&gt; و &lt;a href=&quot;http://www.google.com&quot;&gt;سياسة خصوصية&lt;/a&gt;</string>
+    <string name="qr_code_url">https://chart.apis.google.com/chart?cht=qr&amp;chs=392x392&amp;chl=https://www.youtube.com/watch?v=8I8mCFYYfdk</string>
+    <string name="sign_in_success_message">تم تسجيل الدخول بنجاح</string>
+    <string name="sign_in_failed_message">فشل تسجيل الدخول مع رمز الخطأ:%1$d</string>
+
+    <string name="server_client_id">YOUR_SERVER_CLIENT_ID</string>
+</resources>

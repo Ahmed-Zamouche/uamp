@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright 2019 Google LLC
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     https://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string name="app_name">Radio Algérienne</string>
+    <string name="settings_label">Radio Algérienne Settings</string>
+
+    <!-- Sign in -->
+    <string name="error_login_button">Connexion</string>
+    <string name="error_require_login">Identification requise</string>
+    <string name="password_hint">Entrer le mot de passe</string>
+    <string name="email_hint">E-mail</string>
+    <string name="login_button_label">Connexion</string>
+    <string name="missing_fields_error">Veuillez remplir les champs manquants</string>
+    <string name="username_help_text">Identifiant oublié? | Utiliser l\'application téléphonique pour vous connecter</string>
+    <string name="password_help_text">Mot de passe oublié? | Réinitialiser avec l\'application téléphone</string>
+    <string name="sign_in_next_button_label">suivant</string>
+    <string name="sign_in_submit_button_label">suivant</string>
+    <string name="sign_in_user_id_hint">Saisissez votre nom d\'utilisateur</string>
+    <string name="sign_in_username_error">Entrée invalide</string>
+    <string name="sign_in_primary_text">Connectez-vous avec Aural</string>
+    <string name="username_and_password_sign_in_primary_text">Connectez-vous avec Aural</string>
+    <string name="phone_sign_in_button_label">Connectez-vous avec le téléphone</string>
+    <string name="phone_sign_in_primary_text">Choisissez la méthode de connexion par téléphone</string>
+    <string name="pin_sign_in_button_label">PIN</string>
+    <string name="pin_sign_in_primary_text">Connectez-vous avec un code PIN</string>
+    <string name="pin_sign_in_secondary_text">Accédez à example.com/fast-pair sur votre téléphone</string>
+    <string name="qr_sign_in_button_label">QR code</string>
+    <string name="qr_sign_in_primary_text">Connectez-vous avec le code QR</string>
+    <string name="qr_sign_in_secondary_text">Utilisez l\'appareil photo de votre téléphone pour capturer ce code</string>
+    <string name="google_sign_in_button_label">Connectez-vous avec Google</string>
+    <string name="sign_in_footer">En vous connectant avec Aural, vous acceptez les &lt;a href=&quot;http://www.google.com&quot;&gt;Termes et Conditions&lt;/a&gt; et &lt;a href=&quot;http://www.google.com&quot;&gt;Politique de confidentialité&lt;/a&gt;</string>
+    <string name="qr_code_url">https://chart.apis.google.com/chart?cht=qr&amp;chs=392x392&amp;chl=https://www.youtube.com/watch?v=8I8mCFYYfdk</string>
+    <string name="sign_in_success_message">Connexion réussie</string>
+    <string name="sign_in_failed_message">Échec de la connexion avec un code d\'erreur: %1$d</string>
+
+    <string name="server_client_id">YOUR_SERVER_CLIENT_ID</string>
+</resources>

@@ -16,31 +16,30 @@
 -->
 <resources>
     <!-- Notificaiton Channel -->
-    <string name="notification_channel">Now Playing</string>
-    <string name="notification_channel_description">Shows what music is currently playing</string>
+    <string name="notification_channel">En cours de lecture</string>
+    <string name="notification_channel_description">Affiche la musique en cours de lecture</string>
 
     <!-- Notification actions -->
-    <string name="notification_skip_to_previous">Skip to previous channel</string>
-    <string name="notification_skip_to_next">Skip to next channel</string>
-    <string name="notification_play">Play</string>
+    <string name="notification_skip_to_previous">Passer à la chaîne précédente</string>
+    <string name="notification_skip_to_next">Passer à la chaîne suivante</string>
+    <string name="notification_play">Jouer</string>
     <string name="notification_pause">Pause</string>
 
     <!-- Error messages -->
-    <string name="error_media_not_found">Could not locate requested media.</string>
-    <string name="generic_error">The application has encountered an unexpected error.</string>
+    <string name="error_media_not_found">Impossible de localiser le média demandé.</string>
+    <string name="generic_error">L\'application a rencontré une erreur inattendue.</string>
     <!-- Allowed caller template -->
     <string name="allowed_caller_log">
-        Caller has a valid certificate, but its package doesn\'t match any expected package for the
-        given certificate. To allow this caller, add the following to the allowed callers list:\n
+        L\'appelant a un certificat valide, mais son package ne correspond à aucun package attendu pour le certificat donné. Pour autoriser cet appelant, ajoutez les éléments suivants à la liste des appelants autorisés:\n
         <![CDATA[
         <signature name=\"%1$s\" package=\"%2$s\">\n\t<key>%3$s</key>\n</signature>\n
         ]]>
     </string>
 
     <!-- Cast menu item -->
-    <string name="media_route_menu_title">Cast</string>
+    <string name="media_route_menu_title">Jeter</string>
 
     <!-- Browse Tree -->
-    <string name="recommended_title">Recommended</string>
-    <string name="albums_title">Channels</string>
+    <string name="recommended_title">Recommandés</string>
+    <string name="albums_title">Canaux</string>
 </resources>
