@@ -1,0 +1,69 @@
+{
+  "music": [
+    {
+      "id": "5f81fc9c-76ea-435a-9d32-d8fba9913ac4",
+      "title": "جو راديو",
+      "album": "جو",
+      "artist": "جو",
+      "genre": "موسيقى",
+      "source": "https://ice.creacast.com/jowradio",
+      "image": "https://1.bp.blogspot.com/-W3IOkOHsKlA/YPijnyApZYI/AAAAAAAAA6g/lJFQl9YDiwMJKiRBMHkBwIK1endJl8eSACLcBGAsYHQ/s0/Jow-Radio.png",
+      "trackNumber": 1,
+      "totalTrackCount": 5,
+      "duration": -1,
+      "site": "https://jow.radio/jow-radio-live"
+    },
+    {
+      "id": "d67ea83b-4a14-4b17-b537-19db9f8af6a0",
+      "title": "جو راب",
+      "album": "جو",
+      "artist": "جو",
+      "genre": "موسيقى / راب",
+      "source": "https://ice.creacast.com/jowradio-jow_rap",
+      "image": "https://1.bp.blogspot.com/-43ha1Gncjdk/YPiqn4dBIpI/AAAAAAAAA7c/BfH69HKhmGcr2zF2Rs7DUEitCY4_7x-BgCLcBGAsYHQ/s0/Jow-Rap.png",
+      "trackNumber": 2,
+      "totalTrackCount": 5,
+      "duration": -1,
+      "site": "https://jow.radio/jow-rap-live"
+    },
+    {
+      "id": "fa13228b-c42b-4953-b063-8e9d1a8ef45e",
+      "title": "جو راي",
+      "album": "جو",
+      "artist": "جو",
+      "genre": "موسيقى / راي",
+      "source": "https://ice.creacast.com/jowradio-rai",
+      "image": "https://1.bp.blogspot.com/-_H2ckjY5g2c/YPip_sqx0BI/AAAAAAAAA7E/uS8l5IKAdZgY78OY0PF1rR_dr1eyK3j3gCLcBGAsYHQ/s0/Jow-Rai.png",
+      "trackNumber": 3,
+      "totalTrackCount": 5,
+      "duration": -1,
+      "site": "https://jow.radio/jow-rai-live"
+    },
+    {
+      "id": "8e42c38e-ac36-4f28-a6b5-9e38cf1a0701",
+      "title": "ديني راديو",
+      "album": "جو",
+      "artist": "جو",
+      "genre": "دينية",
+      "source": "https://ice.creacast.com/jowradio-diny",
+      "image": "https://1.bp.blogspot.com/-IFM3aXS6n10/YPip-z5noiI/AAAAAAAAA68/dBBN6DAJJiYeVs1jnhCnpP3Mh9TtMJhmACLcBGAsYHQ/s0/Dini-Radio.png",
+      "trackNumber": 4,
+      "totalTrackCount": 5,
+      "duration": -1,
+      "site": "https://jow.radio/jow-dini-live"
+    },
+    {
+      "id": "5661788f-0db4-4241-a049-f88516b932c0",
+      "title": "جو إفريقيا",
+      "album": "جو",
+      "artist": "جو",
+      "genre": "موسيقى / إفريقي",
+      "source": "https://ice.creacast.com/jowradio-north_africa",
+      "image": "https://1.bp.blogspot.com/-6zmuB7hb0jM/YPip-6iSJiI/AAAAAAAAA7A/TU7UMJm6xKkXN9OdcGghBL-Yhoj06KmmQCLcBGAsYHQ/s0/Jow-Arica.png",
+      "trackNumber": 5,
+      "totalTrackCount": 5,
+      "duration": -1,
+      "site": "https://jow.radio/jow-africa-live"
+    }
+  ]
+}

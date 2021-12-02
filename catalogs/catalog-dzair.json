@@ -1,0 +1,108 @@
+{
+  "music": [
+    {
+      "id": "b72f071e-9d63-4766-8116-4958b942d976",
+      "title": "راديو دزاير أوراس",
+      "album": "راديو دزاير",
+      "artist": "راديو دزاير",
+      "genre": "موسيقى / أوراسي",
+      "source": "https://radio-dzair.net/proxy/aures?mp=/stream",
+      "image": "https://1.bp.blogspot.com/-IEr7Dv3rwBQ/YPnklil_NkI/AAAAAAAAA7w/Z_wtJ4JXoqkEdWHTFhQNawf1aCdOgMDaQCLcBGAsYHQ/s0/aures2.png",
+      "trackNumber": 1,
+      "totalTrackCount": 0,
+      "duration": -1,
+      "site": "https://radio-dzair.com/radio-aures-player/"
+    },
+    {
+      "id": "339487b8-4cfe-428f-ac99-1cb347cc1fdf",
+      "title": "راديو دزاير إزوران",
+      "album": "راديو دزاير",
+      "artist": "راديو دزاير",
+      "genre": "موسيقى / إزوران",
+      "source": "https://radio-dzair.net/proxy/izuran?mp=/stream",
+      "image": "https://1.bp.blogspot.com/-uv5s6AixmQg/YPnkmNp1EQI/AAAAAAAAA8A/X-S7f9Ukew0U7xoD5jGoT6zCLhOr7MFwwCLcBGAsYHQ/s0/izuran2.png",
+      "trackNumber": 2,
+      "totalTrackCount": 0,
+      "duration": -1,
+      "site": "https://radio-dzair.com/radio-izuran-player/"
+    },
+    {
+      "id": "e8416060-6ea7-4e1d-bcde-d0683c3844cd",
+      "title": "راديو دزاير شرقية",
+      "album": "راديو دزاير",
+      "artist": "راديو دزاير",
+      "genre": "موسيقى / شرقي",
+      "source": "https://radio-dzair.net/proxy/orientale?mp=/stream",
+      "image": "https://1.bp.blogspot.com/-D-3moLFIJR4/YPnkmA_5d0I/AAAAAAAAA8E/GTtSR6fAWcANOdk7hxjaIxXVXHsf5tpNQCLcBGAsYHQ/s0/orientale2.png",
+      "trackNumber": 3,
+      "totalTrackCount": 0,
+      "duration": -1,
+      "site": "https://radio-dzair.com/radio-orientale-player/"
+    },
+    {
+      "id": "a4fd364b-c6cd-4c6b-937d-ee3a16373624",
+      "title": " راديو دزاير أندلسية",
+      "album": "راديو دزاير",
+      "artist": "راديو دزاير",
+      "genre": "موسيقى / أندلسي",
+      "source": "https://radio-dzair.net/proxy/andaloussia?mp=/stream",
+      "image": "https://1.bp.blogspot.com/-tvNmtlMqQHo/YPnkll3wY2I/AAAAAAAAA70/xwHuswosGXAZu4FEA-ZDAIyfbqijTclmQCLcBGAsYHQ/s0/andaloussia1.png",
+      "trackNumber": 4,
+      "totalTrackCount": 0,
+      "duration": -1,
+      "site": "https://radio-dzair.com/radio-al-andaloussia-player/"
+    },
+    {
+      "id": "c5c3f5fe-6bee-4e0b-9d13-7c9f0deaaffd",
+      "title": "راديو دزاير شعبية",
+      "album": "راديو دزاير",
+      "artist": "راديو دزاير",
+      "genre": "موسيقى / شعبي",
+      "source": "https://radio-dzair.net/proxy/chaabia?mp=/stream",
+      "image": "https://1.bp.blogspot.com/-lkC9yaX6sAw/YPnklkA_J1I/AAAAAAAAA74/9_mJi6RroJszxM6g1KSn1hJA_s_EP51lQCLcBGAsYHQ/s0/chaabia2.png",
+      "trackNumber": 5,
+      "totalTrackCount": 0,
+      "duration": -1,
+      "site": "https://radio-dzair.com/radio-chaabia-player/"
+    },
+    {
+      "id": "6576c588-231b-44af-9b21-5aea228f0672",
+      "title": "راديو دزاير رينا",
+      "album": "راديو دزاير",
+      "artist": "راديو دزاير",
+      "genre": "موسيقى / راي",
+      "source": "https://radio-dzair.net/proxy/raina?mp=/stream",
+      "image": "https://1.bp.blogspot.com/-UZMrANw_2dc/YPnkms1BB2I/AAAAAAAAA8I/lGC6QbTJsQQiJOvFHZ26KwJWTPGM2JbAACLcBGAsYHQ/s0/raina2.png",
+      "trackNumber": 6,
+      "totalTrackCount": 0,
+      "duration": -1,
+      "site": "https://radio-dzair.com/radio-raina-player/"
+    },
+    {
+      "id": "799ca1d5-94d2-4ce2-a7ba-671c5a5bf32d",
+      "title": "راديو دزاير صحراء",
+      "album": "راديو دزاير",
+      "artist": "راديو دزاير",
+      "genre": "موسيقى / صحراوي",
+      "source": "https://radio-dzair.net/proxy/sahara?mp=/stream",
+      "image": "https://1.bp.blogspot.com/-5c994xPxCLA/YPnkmqWdW6I/AAAAAAAAA8M/P3m7UZOjyN4lU2ylQNHjRefXXYSBMMsJgCLcBGAsYHQ/s0/sahara2.png",
+      "trackNumber": 7,
+      "totalTrackCount": 0,
+      "duration": -1,
+      "site": "https://radio-dzair.com/radio-sahara-player/"
+    },
+    {
+      "id": "f8b2cb48-3dd8-474c-8863-fc91a475f629",
+      "title": "راديو دزاير دزاير",
+      "album": "راديو دزاير",
+      "artist": "راديو دزاير",
+      "genre": "موسيقى / دزاير",
+      "source": "https://radio-dzair.net/proxy/dzair?mp=/stream",
+      "image": "https://1.bp.blogspot.com/-BmV6FQIhsLQ/YPnkmBeXzmI/AAAAAAAAA78/uXX1Ies8Vysgsoo1EAeKrQnQjVys1UnDQCLcBGAsYHQ/s0/dzair2.png",
+      "trackNumber": 8,
+      "totalTrackCount": 0,
+      "duration": -1,
+      "site": "https://radio-dzair.com/radio-dzair-player/"
+    }
+  ]
+}
