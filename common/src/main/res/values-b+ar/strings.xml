@@ -41,5 +41,6 @@
 
     <!-- Browse Tree -->
     <string name="recommended_title">الموصى بها</string>
+    <string name="recent_title">الأخيرة</string>
     <string name="albums_title">القنوات</string>
 </resources>

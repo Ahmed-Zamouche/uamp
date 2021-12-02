@@ -41,5 +41,6 @@
 
     <!-- Browse Tree -->
     <string name="recommended_title">Recommandés</string>
+    <string name="recent_title">Récente</string>
     <string name="albums_title">Canaux</string>
 </resources>
